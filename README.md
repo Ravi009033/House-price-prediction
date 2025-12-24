@@ -38,7 +38,7 @@ Dataset Source Link : [https://www.kaggle.com/datasets/rajarshiroy0123/house-pri
 
 ## Installation and Dependencies
 
-These are some required packages for our program which are mentioned in the Requirements.txt file
+These are some required packages for our program, which are mentioned in the Requirements.txt file
 
 - pandas
 - numpy
@@ -116,7 +116,6 @@ These are some required packages for our program which are mentioned in the Requ
  ┣ 📜app.py
  ┣ 📜city_locality.npy
  ┣ 📜Dockerfile
- ┣ 📜LICENSE
  ┣ 📜main.py
  ┣ 📜README.md
  ┣ 📜requirements.txt
@@ -134,7 +133,7 @@ To run this project locally, please follow these steps:-
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Rajarshi12321/My-Sweet-Home.git
+   git clone https://github.com/Ravi009033/House-price-prediction.git
    ```
 
 
